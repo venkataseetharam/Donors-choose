@@ -50,4 +50,3 @@ The complete code and demonstration are available on our GitHub repository at [D
 
 ---
 
-Feel free to adjust or add any details as needed for your README file!
