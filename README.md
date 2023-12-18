@@ -2,9 +2,6 @@
 
 ---
 
-# DonorsChoose Project Prediction
-
-GitHub Repository: [DonorsChoose Project](https://github.com/venkataseetharam/Donors-choose)
 
 ## Introduction
 Our project aims to develop a predictive model for the DonorsChoose platform, forecasting the complete funding of projects within a 60-day timeframe. This research encompasses data cleaning, feature engineering, model selection, and hyperparameter optimization. We utilize the extensive DonorsChoose dataset from Kaggle, encompassing over 1.4 million project submissions with detailed information about each project.
